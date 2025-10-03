@@ -9,7 +9,7 @@ Right click and "Save as..." to download the [rnnoise.vst3](https://github.com/S
 
 
 
-###Note
+### Note
 I did not create this plugin, they are adapted from werman's excellent plugins (https://github.com/werman/noise-suppression-for-voice), which is adapted from the original achine Learning noise reduction paper by Jean-Marc Valin (https://github.com/xiph/rnnoise). Element is created and maintained by Kushview, BlackHole is created and maintained by Existential Audio, and Equalizer APO is created and maintained by Jonas Thedering. These are open-source programs and freely available, though you may consider donating to their projects if they are useful to you.
 
 I am providing them here as an easy repository for others to use in their own recording pipeline.
