@@ -9,7 +9,7 @@ Right click and "Save as..." to download the [rnnoise_stereo.dll](https://github
 <br>
 
 ## MacOS (Apple)
-Right click and "Save Link As..." to download the [rnnoise.vst3](https://github.com/SkylerEvans/RNNoise_Alignerr/blob/main/rnnoise.vst3.zip) file, the [Blackhole2ch.pkg](https://github.com/SkylerEvans/RNNoise_Alignerr/blob/main/BlackHole2ch-0.6.1.pkg) file, and Kushview Element ([from here](https://github.com/kushview/element/releases/download/1.0.0b1/element-osx-1.0.0b1.dmg)).
+Right click and "Save Link As..." to download the [rnnoise.vst3](https://github.com/SkylerEvans/RNNoise_Alignerr/releases/download/new/rnnoise.vst3.zip) file, the [Blackhole2ch.pkg](https://github.com/SkylerEvans/RNNoise_Alignerr/blob/main/BlackHole2ch-0.6.1.pkg) file, and Kushview Element ([from here](https://github.com/kushview/element/releases/download/1.0.0b1/element-osx-1.0.0b1.dmg)).
 
 <br><br>
 
