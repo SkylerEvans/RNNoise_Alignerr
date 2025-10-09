@@ -4,7 +4,7 @@ A repository for RNNoise plug-ins to be available for Alignerr recordings.
 <br>
 
 ## Windows 
-Right click and "Save as..." to download the [rnnoise_stereo.dll](https://github.com/SkylerEvans/RNNoise_Alignerr/blob/main/rnnoise_stereo.dll) file, and [Equalizer APO](https://equalizerapo.com/EqualizerAPO64-1.2.1.zip).
+Right click and "Save as..." to download the [rnnoise_stereo.dll](https://github.com/SkylerEvans/RNNoise_Alignerr/releases/download/new/rnnoise_stereo.dll) file, and [Equalizer APO](https://equalizerapo.com/EqualizerAPO64-1.2.1.zip).
 
 <br>
 
