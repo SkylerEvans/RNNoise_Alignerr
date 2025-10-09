@@ -14,6 +14,17 @@ Right click and "Save Link As..." to download the [rnnoise.vst3](https://github.
 
 ### [Video Instructions for the install and Setup process - MacOS](https://drive.google.com/file/d/10Pb9TkCZ9dojomGMn6MsUsS8qi6yrZMo/view?usp=drive_link)
 
+### NOTE: if you get a security issue loading the plugin into Element!
+Due to MacOS Security Settings, third-party VSTs file may be blocked from loading by default. If this is the case, you can add an exception for this file to allow Element to load it. You will need to open Terminal (click the magnifying glass at the top-right and type Terminal), and run the following command, replacing [YOURUSERNAME] with your computer username. If you choose to save the rnnoise.vst3 file somewhere other than your download folder, just change the filepath to match.
+
+##### sudo xattr -r -d com.apple.quarantine /Users/[YOURUSERNAME]/Downloads/rnnoise.vst3
+
+For instance, my username is skyler, so the command would be:
+
+##### sudo xattr -r -d com.apple.quarantine /Users/skyler/Downloads/rnnoise.vst3
+
+Terminal will prompt for your password, type it and hit enter, and now Element should be able to scan and load the plugin file with no trouble!
+
 <br><br>
 
 ## Note
